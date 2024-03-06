@@ -27,5 +27,6 @@ import org.junit.runner.RunWith;
         //tags="@sanity and not @regression" //Scenarios tagged with @sanity but not tagged with @regression
         //tags="@sanity or @regression" //Scenarios tagged with either @sanity or @regression
 )
-public class Login {
+
+public class Test_001 {
 }
